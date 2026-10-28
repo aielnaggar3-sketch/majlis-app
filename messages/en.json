@@ -1,0 +1,138 @@
+{
+  "app": {
+    "name": "Majlis",
+    "tagline": "Talk out loud with AI characters, in places you love",
+    "switchLanguage": "عربي",
+    "aiNote": "Every character here is AI, and will tell you so."
+  },
+  "nav": {
+    "home": "Home",
+    "explore": "Explore",
+    "characters": "Characters",
+    "wallet": "Wallet"
+  },
+  "access": {
+    "free": "Free",
+    "premium": "Premium",
+    "sponsored": "Sponsored",
+    "all": "All"
+  },
+  "home": {
+    "greeting": "Good evening",
+    "freeOnUs": "Your first session is on us",
+    "freeSub": "{minutes} minutes in any free venue, with up to 2 characters.",
+    "quickStart": "Quick start",
+    "placesTonight": "Places to sit tonight",
+    "meetCharacters": "Meet the characters",
+    "seeAll": "See all",
+    "customize": "Pick a place",
+    "sponsoredBanner": "Sponsored"
+  },
+  "explore": {
+    "searchPlaceholder": "Search venues, topics or characters",
+    "results": "{count, plural, one {# place} other {# places}}",
+    "noResults": "Nothing matches yet. Try another word or clear the filters."
+  },
+  "venue": {
+    "whoHere": "Who you'll meet here",
+    "atmosphere": "Atmosphere",
+    "start": "Start a session here",
+    "sponsoredNote": "This venue is a paid partnership. It is labelled wherever it appears and is never mixed into your personal recommendations.",
+    "offer": "Offer at the real place",
+    "claim": "Claim offer",
+    "claimed": "Saved to your wallet",
+    "back": "Back",
+    "topicsHere": "Topics people pick here",
+    "address": "Address",
+    "hours": "Hours",
+    "site": "Official site",
+    "realVenue": "The real place",
+    "code": "Your code"
+  },
+  "builder": {
+    "topic": "What do you want to talk about?",
+    "ownTopic": "Or type your own topic",
+    "characters": "Who's joining you?",
+    "type": "How should it go?",
+    "duration": "Duration",
+    "minutes": "{n} min",
+    "types": {
+      "private": "Private chat",
+      "group": "Group discussion",
+      "learning": "Learning session",
+      "social": "Open social"
+    },
+    "review": "Review before you go in",
+    "freeIntro": "Free intro session",
+    "included": "Included in your plan",
+    "minutesLeft": "{n} min left this month",
+    "pay": "Pay {price} and enter",
+    "enter": "Enter the venue",
+    "total": "Total today",
+    "reasons": {
+      "premium_content": "This venue or character is Premium. The free intro covers free venues only.",
+      "too_many_characters": "The free intro allows up to 2 characters.",
+      "too_long_for_free": "The free intro is 15 minutes.",
+      "no_plan": "Your free intro is used. Pay for this session or subscribe.",
+      "out_of_minutes": "You've used this month's minutes."
+    },
+    "invalid": "Check your choices: {reason}",
+    "paymentsSoon": "Payments aren't connected yet in this build.",
+    "maxChars": "Up to {n} characters",
+    "groupLocked": "Pick at least 2 characters",
+    "checking": "Checking price…",
+    "starting": "Opening the venue…",
+    "failed": "Couldn't start the session. Try again.",
+    "invalidReasons": {
+      "unknown_venue": "Unknown venue",
+      "unknown_character": "Unknown character",
+      "no_characters": "Pick at least one character",
+      "group_needs_two": "A group discussion needs at least 2 characters",
+      "bad_duration": "Pick a duration",
+      "over_plan_limit": "Too many characters for your plan"
+    }
+  },
+  "session": {
+    "connecting": "Connecting…",
+    "listening": "Listening. Tap the mic or type",
+    "you": "You",
+    "speaking": "{name} is speaking",
+    "thinking": "Thinking…",
+    "micBlocked": "Microphone unavailable. Type below",
+    "placeholder": "Say something…",
+    "send": "Send",
+    "end": "End",
+    "captions": "Captions",
+    "mute": "Mute {name}",
+    "unmute": "Unmute {name}",
+    "ai": "AI",
+    "crisis": "If you're going through something hard, you don't have to handle it alone. Please reach out to someone you trust or your local emergency services.",
+    "summary": "Session summary",
+    "covered": "What you covered",
+    "next": "Next steps",
+    "writing": "Writing your summary…",
+    "another": "Another session",
+    "scripted": "Demo replies: add an ANTHROPIC_API_KEY for live characters.",
+    "mic": "Microphone",
+    "unavailable": "The character couldn't answer just now. Try again.",
+    "timeUp": "Time's up for this session.",
+    "notFound": "This session isn't available.",
+    "left": "{time} left",
+    "back": "Back to the venue"
+  },
+  "wallet": {
+    "title": "Your coupons",
+    "note": "Show the code at the venue. It changes to Redeemed only after the venue confirms it.",
+    "empty": "No coupons yet. Visit a sponsored venue to find offers.",
+    "claimed": "Ready to use",
+    "redeemed": "Redeemed",
+    "expired": "Expired",
+    "expires": "Expires {date}",
+    "loading": "Loading…"
+  },
+  "characters": {
+    "disclosure": "AI character. Not a real person, no professional credentials.",
+    "expertise": "Expertise",
+    "boundaries": "Boundaries"
+  }
+}
